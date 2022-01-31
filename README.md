@@ -110,7 +110,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/07b8bf2e56dc4b75be9b6.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -148,7 +148,7 @@
 
 LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Poject [ROYALBOT](https://github.com/ROYALBOY871/ROYALUSERBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
