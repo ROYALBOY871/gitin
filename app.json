@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@***********",
+      "value": "",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@**********,
+      "value": "",
       "required": false
     },
     "BOY_OR_GIRL": {
