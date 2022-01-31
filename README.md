@@ -75,9 +75,9 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate Legend STRING.
+- Generate ROYAL STRING.
 
-`python LegendString.py`
+`python RoyalString.py`
 - Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
 - Finally Start RoyalBot By Vps
 
