@@ -9,11 +9,11 @@
 </h6>
 
 <p align="center">
-<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/ROYALBOY871/gitin/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/ROYALBOY871/gitin/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGEND-OS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/ROYALBOY871/gitin?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/ROYALBOY871/gitin/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/ROYALBOY871/gitin?style=flat&logo=github" /> </a>
+<a href="https://github.com/ROYALBOY871/gitin/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/ROYALBOY871/gitin?label=Forks&logo=github" /> </a>
+<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/ROYALBOY871/gitin?color=success" /> </a>
+<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/ROYALBOY871/gitin?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
