@@ -30,7 +30,7 @@
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/ROYALBOY871/gitin/network/members"><img src="https://img.shields.io/github/forks/ROYALBOY871/ROYALUSERBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-OS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-OS/LEGENDBOT?"></a>
+    <a href="https://github.com/ROYALBOY871/gitin/network/members"><img src="https://img.shields.io/github/forks/ROYALBOY871/ROYALUSERBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/ROYALBOT871/gitin/stargazers"><img src="https://img.shields.io/github/stars/ROYALBOY871/gitin?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/ROYALBOY871/gitin"></a><p align="left"><a href="https://github.com/ROYALBOY871/gitin?"></a>
 
 ------
 ## Telegram 🏪
