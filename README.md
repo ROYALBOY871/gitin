@@ -33,7 +33,7 @@
     <a href="https://github.com/ROYALBOY871/gitin/network/members"><img src="https://img.shields.io/github/forks/ROYALBOY871/ROYALUSERBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/ROYALBOT871/gitin/stargazers"><img src="https://img.shields.io/github/stars/ROYALBOY871/gitin?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/ROYALBOY871/gitin"></a><p align="left"><a href="https://github.com/ROYALBOY871/gitin?"></a>
 
 ------
-## Telegram 🏪
+## Telegram 🏪🕸️🕸️
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightred)](https://t.me/ved_maitrich007)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightred)](https://t.me/RMWNETWORK)
 
@@ -57,7 +57,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/d2b8f228851c48b70a1c1.jpg](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
