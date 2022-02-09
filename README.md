@@ -57,7 +57,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://te.legra.ph/file/d2b8f228851c48b70a1c1.jpg](https://heroku.com/deploy/)
+- [![Deploy](https://telegraph/file/d2b8f228851c48b70a1c1.jpg](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
