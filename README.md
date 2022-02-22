@@ -110,7 +110,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](CLICK HERE FOR REPO....❤️)](https://replit.com/@kartikGaming/LEGENDBOT-3#main.py) 
+[![String](CLICK HERE FOR REPO....❤️)](https://replit.com/@kartikGaming/ROYALBOTSTRING#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
