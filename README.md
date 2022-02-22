@@ -102,12 +102,13 @@
 
     - Go To Telegram And Search @gjkik_bot
     - Click Start
-    - Send Ur Phone Number To @UseTGXBot
-    - U Received Code From Telegram Like This=VGFK0rHbzaF
+    - Send Ur Phone Number To @gjkik_bot
+    - U Received Code From Telegram Like This=1234 but you want to enter this code using space in between each number
     - Copy Ur Code
-    - Paste Ur Code in @UseTGXBot
+    - Paste Ur Code in @gjkik_bot
     - U Received APP ID
-    - Now Run StringSession Given Below:
+       OR-
+          -UseRun StringSession Given Below:
    
 
 [![String](CLICK HERE FOR REPO......🔋🔋)(https://replit.com/@kartikGaming/ROYALBOTSTRING#main.py) 
