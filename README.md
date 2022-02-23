@@ -13,18 +13,18 @@
 <a href="https://github.com/ROYALBOY871/gitin/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/ROYALBOY871/gitin?style=flat&logo=github" /> </a>
 <a href="https://github.com/ROYALBOY871/gitin/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/ROYALBOY871/gitin?label=Forks&logo=github" /> </a>
 <a href="https://github.com/ROYALBOY871/gitin" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/ROYALBOY871/gitin?color=success" /> </a>
-<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/ROYALBOY871/gitin?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/ROYALBOY871/gitin?style=flat&logo=github&color=orange" /> </a>
 </p>
 <p align="center">
-<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
+<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=yellow" /> </a>
 <a href="https://github.com/ROYALBOY871/gitin" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
-<a href="https://github.com/ROYALBOY871/gitin/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/ROYALBOY871/gitin" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/ROYALBOY871/gitin" /> </a>
+<a href="https://github.com/ROYALBOY871/gitin/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-green.svg" /> </a>
 </p>
 <p align="center">
 <a href="https://t.me/ved_maitrich007" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/ROYALBOY871/gitin/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
-<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
+<a href="https://github.com/ROYALBOY871/gitin/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-blue.svg" /> </a>
+<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-circle" /> </a>
 </p>
 
 ------
