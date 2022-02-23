@@ -5,4 +5,5 @@
      ¢Commit your bugs on this group
 
 run:
-    aws ec2 describe-regions
+    aws ec2 describe-region
+    aws region-name <us-east-1>
