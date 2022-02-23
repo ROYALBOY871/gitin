@@ -4,7 +4,4 @@ build:
 run:
    worker: python3 -m userbot
 
-run:
-   - name: "Configure AWS Credentials" Action For GitHub Actions
-  uses: aws-actions/configure-aws-credentials@v1
 
